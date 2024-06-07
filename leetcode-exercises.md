@@ -96,3 +96,21 @@ List of Leetcode exercises to practice algorithms based on the content of the bo
 
 7. (Med) Maximum Subarray
 - https://leetcode.com/problems/maximum-subarray/description/
+
+
+### Chapter 6: Dynamic Programming
+
+1. (Easy) Fibonacci Number
+- https://leetcode.com/problems/fibonacci-number/description/
+
+2. (Easy) Pascal's Triangle
+- https://leetcode.com/problems/pascals-triangle/description/
+
+3. (Med) Count Sorted Vowel Strings
+- https://leetcode.com/problems/count-sorted-vowel-strings/description/
+
+4. (Med) Palindromic Substring
+- https://leetcode.com/problems/palindromic-substrings/description/
+
+5. (Med) Count Substrings That Differ by One Character
+- https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/
